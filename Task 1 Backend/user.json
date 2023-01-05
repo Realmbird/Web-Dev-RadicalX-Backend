@@ -1,0 +1,18 @@
+{
+  "internship-description":{
+    "category": ["Tecehnology", "Development"],
+    "description": "This is intern description",
+    "location": ["New York", "California"],
+    "benefits": "Pay only",
+    "intro video": ["intro video.mp4"],
+    "mentor details": {
+      "image": "",
+      "name": "",
+      "email": "",
+      "linkedin url": ""
+      },
+    "recommended roles": ["Frontend Developer", "Backend Developer"],
+    "web links": ["my company.com, radicalx"],
+    "resources": ["my company.com, radicalx"]
+  }
+}
